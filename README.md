@@ -1,8 +1,8 @@
 ![header](_images/header.jpg)
 
 Ask me about: 
-- Angular, 
+- Angular & Microfrontends
 - Azure Development & DevOps, 
-- Microsoft Identity, 
 - Event Driven Architecture (EDA), 
+- Microsoft Graph & Identity,
 - Microsoft 365 / Teams / SharePoint Development
