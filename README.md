@@ -6,3 +6,5 @@ Ask me about:
 - Microsoft Identity, 
 - Event Driven Architecture (EDA), 
 - Microsoft 365 / Teams / SharePoint Development
+
+Find a [full list of current & historical repos](/repos/).
