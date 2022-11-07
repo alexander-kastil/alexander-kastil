@@ -1,1 +1,8 @@
-💬 Ask me about: Angular, Azure Development, Azure DevOps, Event Driven Apps (EDA), Microsoft Identity, .NET, Node.js, Microsoft 365 / Teams Development, SharePoint Development
+![header](_images/header.jpg)
+
+Ask me about: 
+- Angular, 
+- Azure Development & DevOps, 
+- Microsoft Identity, 
+- Event Driven Apps (EDA), 
+- Microsoft 365 / Teams / SharePoint Development
