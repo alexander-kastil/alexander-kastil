@@ -2,7 +2,7 @@
 
 Ask me about: 
 - Azure Development & DevOps, 
-- Cloud Native Apps, Microservices & Event Driven Architecture (EDA), 
+- Cloud Native Apps & Microservices, 
 - Micro-Frontends & Angular 
 - Microsoft Graph & Identity,
 - Microsoft 365 / Teams / SharePoint Development
