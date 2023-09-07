@@ -2,7 +2,7 @@
 
 Ask me about: 
 - Azure Development & DevOps, 
-- Cloud Native Apps & Microservices, 
+- Cloud Native Apps, Microservices & Dapr
 - Micro-Frontends & Angular 
 - Microsoft Graph & Identity,
 - Microsoft 365 / Teams / SharePoint Development
