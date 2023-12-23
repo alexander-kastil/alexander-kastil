@@ -3,7 +3,7 @@
 Ask me about: 
 
 - Cloud Native Apps, Azure Container Apps & Dapr
-- Azure DevOps
+- Azure DevOps & Infrastructure as Code
 - Micro-Frontends & Angular 
 - Microsoft Graph & Identity
 - Microsoft 365, Teams & SharePoint Development
