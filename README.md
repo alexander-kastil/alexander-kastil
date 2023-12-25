@@ -4,8 +4,8 @@ Ask me about:
 
 - Cloud Native Apps, Azure Container Apps & Dapr
 - Azure DevOps & Infrastructure as Code
-- Micro-Frontends & Angular 
-- Microsoft Graph & Identity
+- Angular & Micro-Frontends
+- Microsoft Graph & Identity Platform
 - Microsoft 365, Teams & SharePoint Development
 
 ![arambazamba's Stats](https://github-readme-stats.vercel.app/api?username=arambazamba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
