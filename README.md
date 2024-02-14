@@ -5,6 +5,7 @@ Ask me about:
 - Cloud Native Apps, Azure Container Apps & Dapr
 - Azure DevOps & Infrastructure as Code
 - Angular & Micro-Frontends
+- Azure AI Services, Ollama, LangChain
 - Microsoft Graph & Identity Platform
 - Microsoft 365, Teams & SharePoint Development
 
