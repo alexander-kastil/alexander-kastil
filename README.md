@@ -2,9 +2,9 @@
 
 Ask me about: 
 
-- Azure Development, Cloud Native Apps, Azure Container Apps & Dapr
-- Azure DevOps & Infrastructure as Code
-- Angular & Micro-Frontends
+- Azure Development, Cloud Native Apps & Dapr
+- Azure DevOp, Azure Container Apps & Infrastructure as Code
+- Angular, Micro-Frontends & Real Time
 - Azure AI Studio, OpenAI, Prompt Flow
 - Copilots & AI Agents with Semantic Kernel & Autogen
 - Microsoft Graph & Identity Platform
