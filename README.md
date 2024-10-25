@@ -6,7 +6,7 @@ Ask me about:
 - Azure DevOp, Azure Container Apps & Infrastructure as Code
 - Angular, Micro-Frontends & Real Time
 - Azure AI Studio, OpenAI, Prompt Flow
-- Copilots & AI Agents with Semantic Kernel & Autogen
+- Copilots & AI Agents with Copilot Studio, Semantic Kernel & AutoGen
 - Copilot for Microsoft 365 Development
 - Microsoft Graph & Identity Platform
 - Microsoft 365, Teams & SharePoint Development
