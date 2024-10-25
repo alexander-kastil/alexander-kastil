@@ -2,7 +2,7 @@
 
 Ask me about: 
 
-- Azure Development, Cloud Native Apps & Dapr
+- Azure Development, Cloud Native Apps, .NET Aspire & Dapr
 - Azure DevOp, Azure Container Apps & Infrastructure as Code
 - Angular, Micro-Frontends & Real Time
 - Azure AI Studio, OpenAI, Prompt Flow
