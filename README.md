@@ -6,7 +6,7 @@ Ask me about:
 - AI assisted Software Development using the GitHub Copilot & Workspaces Ecosystem
 - Copilots & AI Agents with Copilot Studio, Semantic Kernel & AutoGen
 - Copilot for Microsoft 365 Development: Agents, Plugins & Connectors
-- Microsoft 365, Teams & SharePoint Development, Microsoft Graph
+- Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
 - Azure DevOp & Infrastructure as Code
 - Angular, Micro-Frontends & Real Time
 
