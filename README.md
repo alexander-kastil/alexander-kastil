@@ -4,8 +4,8 @@ Ask me about:
 
 - Azure Development, Cloud Native Apps, .NET Aspire & Dapr, Azure Container Apps
 - AI assisted Software Development using the GitHub Copilot & Workspaces Ecosystem
-- Copilots & AI Agents with Copilot Studio, Semantic Kernel & AutoGen
-- Copilot for Microsoft 365 Development: Agents, Plugins & Connectors
+- Copilots & AI Agents with Azure AI Foundry, Prompt Flow & Semantic Kernel
+- Copilot for Microsoft 365 Development: Agents, Plugins & Connectors Low- and Pro-Code
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
 - Azure DevOp & Infrastructure as Code
 - Angular, Micro-Frontends & Real Time
