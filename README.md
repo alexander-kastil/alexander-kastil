@@ -8,6 +8,6 @@ Ask me about:
 - Copilot for Microsoft 365 Development: Agents, Plugins & Connectors Low- and Pro-Code
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
 - Azure DevOp & Infrastructure as Code
-- Angular, Micro-Frontends & Real Time
+- Angular & Micro-Frontends
 
 ![arambazamba's Stats](https://github-readme-stats.vercel.app/api?username=alexander-kastil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
