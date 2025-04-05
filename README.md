@@ -1,6 +1,6 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 
-- Azure Development, Cloud Native Apps with .NET Aspire & Dapr
+- Azure Cloud Native Apps with .NET Aspire & Dapr
 - Agents with Azure AI Foundry, Azure AI Agent Service & Semantic Kernel
 - Copilot for Microsoft 365: Low & Pro Code Agents, Plugins & Connectors
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
