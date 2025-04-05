@@ -1,7 +1,5 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 
-Ask me about: 
-
 - Azure Development, Cloud Native Apps with .NET Aspire & Dapr
 - Agents with Azure AI Foundry, Azure AI Agent Service & Semantic Kernel
 - Copilot for Microsoft 365: Low & Pro Code Agents, Plugins & Connectors
