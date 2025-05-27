@@ -4,7 +4,7 @@
 - Agents with Azure AI Foundry, Azure AI Agent Service & Semantic Kernel
 - Copilot for Microsoft 365: Low & Pro Code Agents, Plugins & Connectors
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
-- Vibe Coding with GitHub Copilot & GitHub Workspaces
+- Vibe Coding with GitHub Copilot
 - Azure DevOps & Infrastructure as Code
 - Angular & Micro Frontends
 - Microsoft Certified Trainer since 2000
