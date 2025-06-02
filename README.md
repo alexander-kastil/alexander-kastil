@@ -1,8 +1,8 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 
 - Azure Cloud Native Apps with .NET Aspire & Dapr
-- Agents with Azure AI Foundry, Azure AI Agent Service & Semantic Kernel
-- Copilot for Microsoft 365: Low & Pro Code Agents, Plugins & Connectors
+- Agents with Azure AI Foundry, Semantic Kernel & Azure AI Agent Service
+- Low & Pro Code Agents for Copilot for Microsoft 365
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph Development
 - Vibe Coding with GitHub Copilot
 - Azure DevOps & Infrastructure as Code
