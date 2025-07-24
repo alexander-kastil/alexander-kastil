@@ -5,7 +5,7 @@
 - Low & Pro Code Agents for Copilot for Microsoft 365
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph 
 - Azure Cloud Native Apps with .NET Aspire & Dapr
-- Vibe Coding with GitHub Copilot
+- GitHub Copilot Agentic Coding
 - Azure DevOps & Infrastructure as Code
 - Angular & Micro Frontends
 
