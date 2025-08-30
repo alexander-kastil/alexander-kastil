@@ -7,6 +7,6 @@
 - Azure Cloud Native Apps with .NET Aspire & Dapr
 - GitHub Copilot Agentic Software Engineering
 - Azure DevOps & Infrastructure as Code
-- Angular & Micro Front Ends
+- Angular & Micro Frontends
 
 ![arambazamba's Stats](https://github-readme-stats.vercel.app/api?username=alexander-kastil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
