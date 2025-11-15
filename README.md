@@ -1,7 +1,7 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 
 - Microsoft Certified Trainer since 2000
-- Microsoft Agents Framework & Azure AI Foundry Agent Service
+- Agentic Apps with Microsoft Agents Framework & Azure AI Foundry Agent Service
 - Low & Pro Code Agents for Copilot for Microsoft 365
 - Microsoft 365-, Teams-, SharePoint- & Microsoft Graph
 - Azure Cloud Native Apps with .NET Aspire & Dapr
