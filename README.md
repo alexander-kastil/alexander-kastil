@@ -1,7 +1,7 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 
 - Microsoft Certified Trainer since 2000​
-- Agentic AI Transformation ​
+- Agentic AI Solutions Archtiecture & Transformation ​
 - Pro-Code Agents Microsoft Foundry  & Microsoft Agents Framework ​
 - Low-Code Agents Copilot Studio​
 - Azure Cloud Native Apps & DevOps​
