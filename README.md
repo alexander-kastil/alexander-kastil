@@ -1,6 +1,6 @@
 [![header](_images/header.jpg)](https://www.integrations.at)
 ​
-- Agentic AI Solutions Architecture & Transformation​
+- AI Transformation 
 - Pro-Code Agents Microsoft Foundry  & Microsoft Agents Framework ​
 - Low-Code Agents Copilot Studio​
 - Azure Cloud Native Apps & DevOps​
