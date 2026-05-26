@@ -1,4 +1,4 @@
-[![header](_images/IMG_2939.jpeg)](https://www.integrations.at)
+[![header](_images/github.jpg)](https://www.integrations.at)
 ​
 - AI Transformation & Agentic Business Solutions Architecture
 - Pro-Code Agents Microsoft Foundry  & Microsoft Agents Framework ​
