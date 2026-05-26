@@ -1,10 +1,11 @@
 [![header](_images/github.jpg)](https://www.integrations.at)
 ​
 - AI Transformation & Agentic Business Solutions Architecture
-- Pro-Code Agents Microsoft Foundry  & Microsoft Agents Framework ​
-- Low-Code Agents Copilot Studio / Claude Cowork
-- Agentic Software Engineering GitHub Copilot / Claude Code​
-- Azure Cloud Native Apps & DevOps​​
-- Microsoft 365-, Teams-, SharePoint- & Microsoft Graph​
-- Angular & Micro Frontends
-- Microsoft Certified Trainer since 2000
+- Agentic Development: Microsoft Foundry & Microsoft Agent Framework
+- Agentic Cowork: Copilot Studio, Microsoft 365 Copilot & Claude Cowork
+- Agentic Software Engineering: GitHub Copilot & Claude Code
+- Training & Team Enablement for Agentic AI & Software Engineering
+- Azure Cloud Native Apps: Container Apps, .NET Aspire, Dapr & DevOps
+- Microsoft 365, Teams, SharePoint & Microsoft Graph
+- Angular, TypeScript & Micro Frontends
+- Microsoft Certified since 1997 
