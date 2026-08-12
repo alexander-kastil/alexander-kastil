@@ -1,19 +1,23 @@
 [![header](_images/github.jpg)](https://www.integrations.at)
 
-**Agentic AI: from strategy to production.** AI crafted autonomous agents for business processes and workforce AI, with Microsoft 365 and Claude.
+**AI first: from strategy to production.** AI crafted autonomous agents for business processes and workforce AI, with Microsoft 365 and Claude.
 
-### Agentic Solutions
+### AI at Work
 
-- **Agentic AI**: repetitive processes mapped, scored by business impact, and automated as agent systems on Microsoft Foundry and the Microsoft Agent Framework
-- **Agentic Engineering**: GitHub Copilot and Claude Code configured for your stack and your conventions, active in your codebase within days
-- **Personal & Autonomous Agents**: Claude Cowork, MCP connectors, skills and agent teams, from one personal setup to specialists that coordinate without supervision
+Start in your own office, on your own material: Claude Cowork and Microsoft 365 wired to how your team already works, with guided sessions until they run it without us.
 
-### Professional Services
+### Agentic Engineering
 
-- **AI Transformation**: discovery that scores each candidate process by ROI, risk and integration complexity, and a phased plan with quick wins sequenced first
-- **Architecture & Engineering**: documented architecture, automated evaluations and reproducible environments your team can maintain, extend and debug
-- **Training & Team Enablement**: hands-on programs for business users and engineers, built on 30 years of production engineering experience
+Mid-size companies get what used to be enterprise-only: GitHub Copilot and Claude Code working on your actual codebase and conventions, delivered inside your business rather than handed over as a report.
 
-Microsoft Certified since 1997. Also working in Microsoft 365, Teams, SharePoint and Microsoft Graph; Azure Container Apps, .NET Aspire and Dapr; Angular, TypeScript and micro frontends.
+### Enterprise AI
+
+When it has to hold at scale: every process mapped and scored by business impact, with the governance, evaluation gates, and audit trail an enterprise has to be able to show.
+
+---
+
+Microsoft Certified Agentic AI Business Solutions Architect. Claude Certified Architect. Microsoft Certified since 1997.
+
+Also working in Microsoft Foundry and the Microsoft Agent Framework; Microsoft 365, Teams, SharePoint and Microsoft Graph; Azure Container Apps, .NET Aspire and Dapr; Angular, TypeScript and micro frontends.
 
 [integrations.at](https://www.integrations.at) · [LinkedIn](https://www.linkedin.com/in/alexander-kastil/) · [Sponsor](https://github.com/sponsors/alexander-kastil)
