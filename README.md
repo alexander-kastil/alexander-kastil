@@ -16,8 +16,8 @@ When it has to hold at scale: every process mapped and scored by business impact
 
 ---
 
-Microsoft Certified Agentic AI Business Solutions Architect. Claude Certified Architect. Microsoft Certified since 1997.
+Microsoft Certified Agentic AI Business Solutions Architect. Microsoft Certified since 1997.
 
-Also working in Microsoft Foundry and the Microsoft Agent Framework; Microsoft 365, Teams, SharePoint and Microsoft Graph; Azure Container Apps, .NET Aspire and Dapr; Angular, TypeScript and micro frontends.
+Also working in Microsoft Foundry and the Microsoft Agent Framework; Microsoft 365, Teams, SharePoint and Microsoft Graph; Azure Container Apps; Angular, and Hugo CMS. Hosting on Azure & Hetzner
 
 [integrations.at](https://www.integrations.at) · [LinkedIn](https://www.linkedin.com/in/alexander-kastil/) · [Sponsor](https://github.com/sponsors/alexander-kastil)
