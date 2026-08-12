@@ -8,7 +8,7 @@ Start in your own office, on your own material: Claude Cowork and Microsoft 365 
 
 ### Agentic Engineering
 
-Mid-size companies get what used to be enterprise-only: GitHub Copilot and Claude Code working on your actual codebase and conventions, delivered inside your business rather than handed over as a report.
+Mid-size companies get what used to be enterprise-only:  Claude Code and GitHub Copilot working on your actual codebase and conventions, delivered inside your business rather than handed over as a report.
 
 ### Enterprise AI
 
